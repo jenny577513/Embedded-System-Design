@@ -1,5 +1,5 @@
 # Introduction to Embedded Systems
-NTHU 10910CS 嵌入式系統概論
+NTHU 10910CS Introduction to Embedded Systems
 
  - Lab Platforms
 	 - TI MSP430 LaunchPad
